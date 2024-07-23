@@ -108,7 +108,7 @@ class _AddContactsState extends State<AddContacts> {
                     fillColor: const Color.fromRGBO(240, 243, 245, 2),
                     border: OutlineInputBorder(
                       borderSide: BorderSide.none,
-                      borderRadius: BorderRadius.circular(15),
+                      borderRadius: BorderRadius.circular(16),
                     ),
                   ),
                   validator: (value) {
