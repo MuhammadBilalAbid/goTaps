@@ -105,7 +105,7 @@ class _AddContactsState extends State<AddContacts> {
                     hintText: "Last Name",
                     prefixIcon: const Icon(Icons.person),
                     filled: true,
-                    fillColor: const Color.fromRGBO(240, 243, 245, 1),
+                    fillColor: const Color.fromRGBO(240, 243, 245, 2),
                     border: OutlineInputBorder(
                       borderSide: BorderSide.none,
                       borderRadius: BorderRadius.circular(15),
